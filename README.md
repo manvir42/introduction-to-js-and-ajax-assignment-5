@@ -1,2 +1,1 @@
-# introduction-to-js-and-ajax-assignment-5
-introduction to js and ajax assignment 5
+# Introduction-to-js-and-ajax-assignemnt5
